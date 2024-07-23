@@ -17,7 +17,7 @@ To play the game, simply run the following command in your terminal:
 <div style="background-color: #2d2d2d; padding: 20px; border-radius: 8px;">
   <pre style="color: white; font-size: 16px;">
     <code>
-npx ops-game-by-mtf
+npx rps-game-by-mtf
     </code>
   </pre>
 </div>
