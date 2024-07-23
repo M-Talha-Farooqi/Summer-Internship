@@ -81,5 +81,4 @@ const playRound = async () => {
   }
 };
 
-// Start the game
 playRound();
