@@ -17,7 +17,9 @@ To play the game, simply run the following command in your terminal:
 ```bash
 npx ops-game-by-mtf
 
+## How to Use
 
+```bash
 npx ops-game-by-mtf
 
 ==============================
