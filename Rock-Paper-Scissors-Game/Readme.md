@@ -17,24 +17,3 @@ To play the game, simply run the following command in your terminal:
 ```bash
 npx ops-game-by-mtf
 
-## How to Use
-
-```bash
-npx ops-game-by-mtf
-
-==============================
-  Rock, Paper, Scissors Game
-==============================
-
-? Choose rock, paper, or scissors: (Use arrow keys)
-❯ rock
-  paper
-  scissors
-
-Computer chose: scissors
-You win this round!
-
-Current Scores
-You: 1, Computer: 0
-
-? Do you want to play again? (Y/n)
