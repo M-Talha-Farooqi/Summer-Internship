@@ -15,5 +15,5 @@ You can run this game directly using `npx` without needing to install it globall
 To play the game, simply run the following command in your terminal:
 
 ```bash
-npx ops-game-by-mtf
+npx rps-game-by-mtf
 
